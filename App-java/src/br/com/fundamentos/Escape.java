@@ -2,7 +2,7 @@ package br.com.fundamentos;
 
 public class Escape {
 
-	
+	    // COMENTARIO DE UMA LINHA
 	public static void main(String[] args) {
 		System.out.println("1 Usando o \" eclipse\"");
 		System.out.println("2 Usando o \n eclipse");
@@ -12,6 +12,10 @@ public class Escape {
 		System.out.println("6 Usando o \r eclipse");
 		System.out.println("7 Usando o \' eclipse\'");
 		System.out.println("8 Usando o \\ eclips\\");
-		
+		/*
+		 * 
+		 * COMENTARIO DE MULTIPLAS LINHAS
+		 * 
+		 */
 	}
 }
