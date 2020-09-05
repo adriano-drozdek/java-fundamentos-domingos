@@ -25,6 +25,25 @@ public class TrabalhandoComVariaveis {
 		long numeroInteiroGrande = 25l;
 		System.out.println("Numero inteiro com long -> " + numeroInteiroGrande);
 		
+		double precoProduto = 9.43;
+		
+		boolean alunoMatriculado = true;
+		boolean clienteBloqueado = false;
+		
+		char turmaAluno1 = 'A';
+		char tipoCliente = '2';
+		char simbolo = '@';
+		
+		String nomePessoa = "Adriano";
+        
+		long populacaoUberlandia = 650000;
+		System.out.println(populacaoUberlandia);
+		
+		long populacaoMundial = 70000000l;
+		System.out.println(populacaoMundial);
+		
+		float saldoConta = 1030.43f;
+		System.out.println(saldoConta);
 	}
 
 }

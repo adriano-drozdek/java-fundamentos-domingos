@@ -17,11 +17,15 @@ public class NomeandoVariaveis {
 	int $outroNumero = 1;
 	System.out.println($outroNumero);
 	
-	// Não pode começar com caracteres especiais
-	String 1um;
+	/*Não pode começar com caracteres especiais
+	 * 
+	 *  String 1um;
 	
-	int @arroba;
+	  int @arroba;
 	
-	String *texto 
+	  String *texto 
+	 *  
+	 */
+	
 }
 }
